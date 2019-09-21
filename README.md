@@ -1,3 +1,3 @@
 # PHP Learning  
 Good luck!  
-Fighting!
+Practice makes perfect!
