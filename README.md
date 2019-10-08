@@ -4,4 +4,5 @@ Practice makes perfect!
 Practice practice practice  
 Love it!  
 Do it!  
-Day day up!
+Day day up!  
+KISS!
