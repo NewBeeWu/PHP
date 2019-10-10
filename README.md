@@ -6,4 +6,4 @@ Love it!
 Do it!  
 Day day up!  
 KISS!  
-Agile
+Agile fighting!
