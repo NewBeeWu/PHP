@@ -3,7 +3,7 @@ Good luck!
 Practice makes perfect!  
 Practice practice practice  
 Love it!  
-Do it!  
-Day day up!  
+Do it!   
 KISS!  
 Agile fighting!
+
