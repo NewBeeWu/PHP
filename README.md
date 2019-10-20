@@ -1,8 +1,7 @@
 # PHP Learning  
 Practice makes perfect!  
 Practice practice practice  
-Love it!  
-Do it!   
+Love it!    
 KISS!  
 Agile fighting!  
 Everyday!  
