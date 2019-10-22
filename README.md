@@ -6,4 +6,3 @@ KISS!
 Agile fighting!  
 Everyday!  
 Good luck!  
-Yooooo!
