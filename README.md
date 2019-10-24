@@ -4,5 +4,5 @@ Love it!
 KISS!  
 Everyday!  
 Good luck!    
-Practice!
-
+Practice!  
+Be a good coder!
