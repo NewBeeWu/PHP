@@ -6,3 +6,4 @@ Everyday!
 Good luck!    
 Practice!  
 Be a good coder!  
+Money!
