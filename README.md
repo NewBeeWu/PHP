@@ -5,4 +5,5 @@ KISS!
 Everyday!  
 Good luck!    
 Practice!  
-Be a good coder!
+Be a good coder!  
+Good!
