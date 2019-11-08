@@ -6,5 +6,4 @@ Everyday!
 Good luck!    
 Practice!  
 Be a good coder!  
-Good!  
-OK!
+Good!
